@@ -1,0 +1,9 @@
+flask
+joblib
+numpy
+pandas
+scikit-learn==1.7.0
+# Optional: install flask-cors if you prefer the extension over built-in CORS headers.
+# flask-cors
+# Optional: install shap if you want prediction explanation bars from the API.
+# shap
