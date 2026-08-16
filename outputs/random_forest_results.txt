@@ -1,14 +1,14 @@
 RANDOM FOREST MODEL RESULTS
 ==================================================
 
-Accuracy:  0.9690
-Precision: 0.9691
-Recall:    0.9690
-F1 Score:  0.9690
+Accuracy:  0.9695
+Precision: 0.9696
+Recall:    0.9695
+F1 Score:  0.9695
 
 Confusion Matrix:
-[[1476   16   25]
- [  39 1385    7]
+[[1477   16   24]
+ [  38 1386    7]
  [  24   13 1015]]
 
 Classification Report:

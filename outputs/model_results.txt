@@ -1,21 +1,23 @@
 XGBOOST MODEL RESULTS
 ==================================================
 
-Accuracy:  0.9850
-Precision: 0.9850
-Recall:    0.9850
-F1 Score:  0.9850
+Accuracy:  0.9858
+Precision: 0.9858
+Recall:    0.9858
+F1 Score:  0.9858
 
 Confusion Matrix:
-[[1496   14    7]
- [  13 1409    9]
- [  11    6 1035]]
+[[1496   15    6]
+ [  12 1411    8]
+ [  11    5 1036]]
 
 Classification Report:
               precision    recall  f1-score   support
 
       Stable       0.98      0.99      0.99      1517
-     At Risk       0.99      0.98      0.99      1431
-  Vulnerable       0.98      0.98      0.98      1052
+     At Risk       0.99      0.99      0.99      1431
+  Vulnerable       0.99      0.98      0.99      1052
 
-   
+    accuracy                           0.99      4000
+   macro avg       0.99      0.99      0.99      4000
+weighted avg       0.99      0.99      0.99      4000
